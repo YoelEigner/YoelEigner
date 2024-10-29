@@ -11,7 +11,7 @@
 ### 💻 Professional Experience
 - **Microsoft** (2023 - Present): Developed features for the Microsoft Defender XDR portal, enhancing security and increasing traffic by 40%.
 - **Lockheed Martin** (2018 - 2023): Contributed to operational efficiency through custom web solutions and database management.
-- **IDF** (2016 - 2018): Developed software for tracking certifications and automated server management.
+- **IDF** (2016 - 2018): Developed software for tracking certifications.
 
 ### 🚀 Projects
 - **Invoicing System**: Built a robust system for a health center, focusing on secure payments and user access with JWT authentication.
