@@ -4,7 +4,7 @@
 
 ### 🔧 Skills & Expertise
 - **Frontend:** ReactJS, HTML, CSS, Typescript, JavaScript
-- **Backend:** NodeJS, C#
+- **Backend:** Rails, NodeJS, C#
 - **Database:** MySQL, MongoDB
 - **Cloud & DevOps:** AWS, Azure DevOps, Google Cloud
 
